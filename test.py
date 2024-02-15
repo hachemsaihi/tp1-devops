@@ -4,3 +4,4 @@ for i in range(n):
     print(i)
     print(i*i,"is the current number squared")
 print("the loop is finished")
+print("The end")
